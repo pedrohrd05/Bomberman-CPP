@@ -3,6 +3,7 @@ Console Bomberman game developed in C++ using Windows API. Features singleplayer
 # Bomberman-CPP 💣
 
 Jogo estilo Bomberman feito em C++ utilizando Windows API.
+os quatro arquivos sao iguais somente oque muda são as musicas.
 
 O projeto possui:
 - Singleplayer
